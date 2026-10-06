@@ -30,6 +30,6 @@ model.train(data="data.yaml", epochs=50, imgsz=640)
 - Check https://docs.ultralytics.com/models/yolo26/ for the latest YOLO26 details.
 
 ## Author
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile)
+Taiba Jamil | [LinkedIn:https://www.linkedin.com/in/taibajamil00?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 If this helped you, give the repo a star ⭐
